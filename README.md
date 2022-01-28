@@ -3,7 +3,7 @@
 ### 1) Short info about the game.
 - This is a very basic cards game API.
 - With this program you can easy to play your favorite game.
-- Your balance in the game depends on correct answers.
+- Your balance in the game depends on the correct answers.
 - You have to predict whether the next card will be lower or higher.
 - Before you start follow the instructions.
 
