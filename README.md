@@ -1,4 +1,16 @@
-# High or low Card Game
+# ******************** Welcome in High Low Card Game ********************
+
+
+This is a very basic cards game API.
+
+### 1) Prerequisites
+- Java 8
+- Maven
+- Git
+
+
+
+
 1 .Start the game http://localhost:8080/start   request:POST
 {
     "balance": 1200   
