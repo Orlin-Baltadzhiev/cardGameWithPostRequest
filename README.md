@@ -15,7 +15,7 @@
 
 ### 3) Rules in the game
 
-The rules in the game are very easy. First you have to provide a ***money*** to start a game and then you will see the first card.With command **start** you start the game and increase your balance. The other command is **BET**. With this command you will see the first card. After this you have to to predict whether the next card will be **lower or higher**.When the deck of cards is finished, the deck will renew automatically. Anothre command in the game is **shuffle**. With this command **you shuffle and return the new deck.**With **balance** command, you can easy to check your **current balance**.
+The rules in the game are very easy. First you have to provide a ***money*** to start a game and then you will see the first card.With command **start** you start the game and increase your balance. The other command is **BET**. With this command you will see the first card. After this you have to to predict whether the next card will be **lower or higher**.When the deck of cards is finished, the deck will renew automatically. Anothre command in the game is **shuffle**. With this command you shuffle and return the **new** **deck**.**With **balance** command, you can easy to check your **current balance**.
 
 ### 4) Commands
 
