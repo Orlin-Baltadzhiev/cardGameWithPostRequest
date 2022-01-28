@@ -16,13 +16,12 @@
 ### 3) Rules in the game
 The rules in the game are very easy. First you have to provide a ***money*** to start a game and then you will see the first card.
 The other command is **BET**. With this command you will see the first card. After this you have to to predict whether the next card will be lower or higher.
-
-**Example for Request**
+- **Example for Request**
 {
    "bet":250,
    "guess":"Low"
 }
-=
+
 
 1 .Start the game http://localhost:8080/start   request:POST
 {
