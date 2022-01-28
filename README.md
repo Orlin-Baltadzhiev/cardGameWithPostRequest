@@ -14,7 +14,7 @@
 - Git
 
 ### 3) Rules in the game
-The rules in the game are very easy. First you have to provide a **money** to start a game and then you will see the first card.
+The rules in the game are very easy. First you have to provide a ***money*** to start a game and then you will see the first card.
 The other command is BET with command BET you will see the first card. Your 
 
 
