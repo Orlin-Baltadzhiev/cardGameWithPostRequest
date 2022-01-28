@@ -1,9 +1,14 @@
 # **************** Welcome in High Low Card Game ****************
 
+### 1) Short info about the game.
+- This is a very basic cards game API.
+- With this program you can easy to play your favorite game.
+- Your balance in the game depends on correct answers.
+- You have to predict whether the next card will be lower or higher.
+- Before you start follow the instructions.
 
-This is a very basic cards game API.
 
-### 1) Prerequisites
+### 2) Prerequisites
 - Java 8
 - Maven
 - Git
