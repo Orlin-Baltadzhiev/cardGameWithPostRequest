@@ -15,7 +15,7 @@
 
 ### 3) Rules in the game
 The rules in the game are very easy. First you have to provide a ***money*** to start a game and then you will see the first card.
-The other command is **BET**. With this command you will see the first card. After this you have to to predict whether the next card will be lower or higher.
+The other command is **BET**. With this command you will see the first card. After this you have to to predict whether the next card will be lower or higher. Anothre command in the game is shuffle. With this command you sh
 - **Example for Request**
 {
    "bet":250,
