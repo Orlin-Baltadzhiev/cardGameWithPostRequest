@@ -1,4 +1,4 @@
-# ******************** Welcome in High Low Card Game ********************
+# **************** Welcome in High Low Card Game ****************
 
 
 This is a very basic cards game API.
