@@ -34,7 +34,7 @@ The rules in the game are very easy. First you have to provide a ***money*** to 
 
 - http://localhost:8080/shuffle GET
 
-- http://localhost:8080/seeTheBalance GET
+- http://localhost:8080/balance GET
 
 
 
