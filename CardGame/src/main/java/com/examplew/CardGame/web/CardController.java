@@ -35,7 +35,7 @@ public class CardController {
     }
 
 
-    @PostMapping(value = "/betRequest", consumes = "application/json")
+    @PostMapping(value = "/bet", consumes = "application/json")
     @ResponseBody
     public ResponseEntity<BetRequest> betRequest(@RequestBody BetRequest betRequest) {
         //Приема залога и връща и резултат от теглената карта печеливщ или не;
@@ -46,7 +46,7 @@ public class CardController {
 
 
 
-    @GetMapping("/seeTheBalance")
+    @GetMapping("/balance")
     public String seeTheBalance() {
         return "Your current balance: " +dataService.getBalance() + " Card Left " + dataService.getCardLeft();
     }
