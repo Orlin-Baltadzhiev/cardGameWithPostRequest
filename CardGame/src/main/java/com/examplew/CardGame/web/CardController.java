@@ -25,7 +25,6 @@ public class CardController {
     @PostMapping("/start")
     public ResponseEntity<Card> balance(@RequestBody BetRequest betRequest) {
         dataService.increaseTheBalance(betRequest.getBalance());
-//         return dataService.saveTheCurrentCard(dataService.firstCardFromTheDeck());
         return dataService.firstCardFromTheDeck();
     }
 
@@ -51,23 +50,7 @@ public class CardController {
     public String seeTheBalance() {
         return "Your current balance: " +dataService.getBalance() + " Card Left " + dataService.getCardLeft();
     }
-//
-//    @GetMapping("/play")
-//    public String startTheGame() {
-//        Card firstCard = deck.dealCard();
-//        return this.gson.toJson(firstCard);
-//    }
-//
-//    @GetMapping()
-//    public StringBuilder welcome() {
-//        StringBuilder sb = new StringBuilder();
-//        sb.append("******************** Welcome in High Low Card Game ********************");
-//        sb.append("\n");
-//        sb.append("Enter 'start' to starting the game.");
-//
-//        System.out.println("Enter 'start' to starting the game.");
-//        return sb;
-//    }
+
 
 
 }

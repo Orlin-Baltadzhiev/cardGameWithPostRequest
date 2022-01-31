@@ -7,7 +7,6 @@ import org.springframework.http.ResponseEntity;
 
 public interface DataService {
 
-//    void addBalance(int balance);
 
     int getBalance();
 
@@ -25,8 +24,4 @@ public interface DataService {
 
     ResponseEntity<Card> firstCardFromTheDeck();
 
-
-
-
-//    ResponseEntity<Card> firstCardFromTheDeck();
 }
